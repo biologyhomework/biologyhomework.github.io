@@ -36,3 +36,12 @@ h1{
   font-family: Raleway;
   position: relative;
 }
+
+p{
+  text-align: center;
+  background: white;
+  border: 3px solid white;
+  border-radius: 10px;
+  font-family: Raleway;
+  position: relative;
+}
